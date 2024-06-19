@@ -43,7 +43,7 @@ Action: Mutes the system volume.
 >Hello sign in sign language (little finger raised).
 Action: Opens WhatsApp Web in the default browser.
 
-![Captura de tela 2024-06-19 122040](https://github.com/gregorygustavo80/Dr.Strange/assets/168982426/5b12cc4c-06da-4b59-af4d-54579c5e91e0)
+![Captura de tela 2024-06-19 121817](https://github.com/gregorygustavo80/Dr.Strange/assets/168982426/4cfc84cd-37c4-451f-90b7-825e7cb1f66a)
 
 
 ## Usage
