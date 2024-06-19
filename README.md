@@ -52,6 +52,8 @@ Ensure your camera is working correctly as the program will use it to detect han
 ````
 python Dr.Strange.py 
 ````
+## Press x on the keyboard to exit
+
 ## How It Works
 The script uses the computer's camera to capture real-time video.
 It utilizes the MediaPipe library to detect hands and recognize specific gestures based on hand landmarks' positions.
