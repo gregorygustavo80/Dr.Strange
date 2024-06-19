@@ -2,7 +2,7 @@
 
 >This project allows controlling computer functions using hand gestures detected through the MediaPipe library in Python. It includes features such as screen capture, volume control, opening applications, and other simple actions using specific gestures recognized by the camera.
 
-## Pré-requisitos
+## Requeriment
 Make sure you have Python installed on your system.
 
 The script will automatically install the following Python libraries:
