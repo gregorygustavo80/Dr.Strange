@@ -17,7 +17,7 @@ The script will automatically install the following Python libraries:
 
 ### Screen Capture
 
-### Recognized Gestures: Hand Closed 
+### Recognized Gestures: closed hand
 >Action: Captures a specified area of the screen. Equivalent to Win + Shift + s command.
 
 ![Captura de tela 2024-06-19 122040](https://github.com/gregorygustavo80/Dr.Strange/assets/168982426/093994b5-48a1-4fc2-9877-e92d0e84b42d)
