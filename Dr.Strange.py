@@ -1,18 +1,3 @@
-import sys
-import subprocess
-import pkg_resources
-
-def install(package):
-    subprocess.check_call([sys.executable, "-m", "pip", "install", package])
-
-required_packages = ['opencv-python', 'mediapipe', 'pyautogui', 'pycaw', 'comtypes'] 
-
-installed_packages = {pkg.key for pkg in pkg_resources.working_set}
-for package in required_packages:
-    if package not in installed_packages:
-        print(f"Instalando {package}...")
-        install(package)
-
 import cv2
 import mediapipe as mp
 import pyautogui
@@ -133,7 +118,6 @@ while True:
                 whatsapp()
                 time.sleep(2)
             
-
     cv2.imshow('Dr.Strange', frame)
 
     if cv2.waitKey(1) & 0xFF == ord('x'):
@@ -141,5 +125,4 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
-
 
