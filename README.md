@@ -5,13 +5,12 @@
 ## Requeriments
 Make sure you have Python installed on your system.
 
-The script will automatically install the following Python libraries:
-
 + OpenCV (cv2)
 + MediaPipe
 + PyAutoGUI
 + PyCaw
 + Comtypes
++ Visual C++ redistributable
   
 ## Features
 
@@ -49,6 +48,10 @@ Action: Opens WhatsApp Web in the default browser.
 ## Usage
 Run the script Dr.Strange.py after installing the dependencies.
 Ensure your camera is working correctly as the program will use it to detect hand gestures
+
+````
+pip install -r requirements.txt
+````
 ````
 python Dr.Strange.py 
 ````
